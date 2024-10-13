@@ -46,14 +46,17 @@
 
 
 ## Github Stats  
+<table><tr><td valign="top" width="50%">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvnl123)](https://github.com/anuraghazra/github-readme-stats)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvnl123&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+
+<br/>  
 
 <br/>  
 
