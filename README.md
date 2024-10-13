@@ -72,11 +72,3 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=lvnl123&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
