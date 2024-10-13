@@ -48,7 +48,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvnl123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
@@ -57,6 +57,7 @@
 </td></tr></table>  
 
 <br/>  
+
 
 <br/>  
 
