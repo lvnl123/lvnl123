@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <a href="https://github.com/lvnl123" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -16,7 +15,8 @@
 
 <br/>  
 
- 
+
+## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 
@@ -30,6 +30,7 @@
 <br/>  
 
 
+## Languages and Tools  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -44,6 +45,7 @@
 <br/>  
 
 
+## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lvnl123&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -56,7 +58,7 @@
 
 <br/>  
 
-![Listening to on Spotify](https://rishavanand.github.io/static/images/spotify-readme-example.svg)  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>  
 
@@ -67,3 +69,5 @@
 
 
 <br />
+
+----
