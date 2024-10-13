@@ -57,8 +57,6 @@
 </td></tr></table>  
 
 <br/>  
-## listening Spotify  
-
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
