@@ -60,6 +60,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&redirect=true)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&cover_image=true&theme=karaoke&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&redirect=true)
+
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=lvnl123&&style=flat-square)  
