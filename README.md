@@ -58,9 +58,8 @@
 
 <br/>  
 
-
-<br/>  
 ## Listening Spotify 
+<br/>  
 <table><tr><td valign="top">
   
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true(https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&redirect=true)" align="left"/>
