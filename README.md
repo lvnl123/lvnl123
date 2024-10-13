@@ -53,11 +53,11 @@
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvnl123&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+## listening Spotify  
 </td></tr></table>  
 
 <br/>  
-## listening Spotify  
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>  
