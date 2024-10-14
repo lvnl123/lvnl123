@@ -18,7 +18,7 @@
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-<img align="left" alt="Coding" width="400" src="[https://github.com/lvnl123/xuexi/blob/19e49a7edffbee866939bd508b6a265890b20506/66fc6b91021d6563b0396fc15a65b0c6e78afe81.gif](https://github.com/lvnl123/xuexi/blob/main/lv_0_20241014232539.gif)">
+<img align="left" alt="Coding" width="400" src="https://github.com/lvnl123/xuexi/blob/b247784c06c2829e22a8a0af58e79ebf8d678625/lv_0_20241014232539.gif)">
 <img align="left" alt="Coding" width="400" src="https://github.com/lvnl123/xuexi/blob/19e49a7edffbee866939bd508b6a265890b20506/66fc6b91021d6563b0396fc15a65b0c6e78afe81.gif">
 
 </td></tr></table>  
