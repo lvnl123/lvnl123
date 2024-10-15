@@ -11,12 +11,6 @@
 <a href="https://instagram.com/weitaxinze" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://time.is/Hong_Kong" id="time_is_link" rel="nofollow" style="font-size:36px">香港时间:</a>
-<span id="Hong_Kong_z419" style="font-size:36px"></span>
-<script src="//widget.time.is/zh.js"></script>
-<script>
-time_is_widget.init({Hong_Kong_z419:{template:"TIME<br>DATE<br>SUN", date_format:"year-monthnum-daynum dname，第week周", sun_format:"日出: srhour:srminute 日落: sshour:ssminute<br>昼长: dlhours时 dlminutes分", coords:"22.2500000,114.1666700"}});
-</script>
 
   
 
