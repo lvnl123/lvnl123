@@ -45,7 +45,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-wine-three-70.vercel.app/api?username=lvnl123&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical&locale=cn" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-fxwi.vercel.app/api?username=lvnl123&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical&locale=cn" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
