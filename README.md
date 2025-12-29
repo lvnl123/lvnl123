@@ -49,7 +49,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-wine-three-70.vercel.app/api/top-langs/?username=lvnl123&hide_border=true&layout=compact&locale=cn" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-fxwi.vercel.app/api/top-langs/?username=lvnl123&hide_border=true&layout=compact&locale=cn" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
