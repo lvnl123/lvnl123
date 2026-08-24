@@ -59,7 +59,7 @@
 <br/>  
 <table><tr><td valign="top">
   
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&unique=1&duration=1&album=1)](https://open.spotify.com/user/31vy7com76jj6cymtxpx2n5ogbi4)
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&theme=radical&unique=1&duration=1&album=1&username=off&footer=wave)](https://open.spotify.com/user/31vy7com76jj6cymtxpx2n5ogbi4)
   
 </td><td valign="top">
 
