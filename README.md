@@ -63,7 +63,5 @@
   
 </td><td valign="top">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31vy7com76jj6cymtxpx2n5ogbi4&count=7&unique=1" align="left"/>
-
 </td></tr></table>  
 <br/>  
