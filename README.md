@@ -68,4 +68,4 @@
 </td></tr></table>  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=lvnl123&&style=flat-square)  
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&theme=dracula&unique=1&duration=1&album=1&footer=wave)
