@@ -59,7 +59,7 @@
 <br/>  
 <table><tr><td valign="top">
   
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vy7com76jj6cymtxpx2n5ogbi4&redirect=true)" align="left"/>
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&theme=radical&duration=1&album=1&username=off&footer=wave)
   
 </td><td valign="top">
 
@@ -67,5 +67,3 @@
 
 </td></tr></table>  
 <br/>  
-
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&theme=dracula&unique=1&duration=1&album=1&footer=wave)
