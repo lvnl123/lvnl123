@@ -105,20 +105,27 @@
 <br/>
 
 
-## Listening Spotify
+## Listening & Gaming
 
 <br/>
 
 <table>
 <tr>
-<td valign="top">
+
+<td valign="top" width="50%">
 
 [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&theme=radical&unique=1&duration=1&album=1&username=off&footer=wave)](https://open.spotify.com/user/31vy7com76jj6cymtxpx2n5ogbi4)
 
 </td>
-<td valign="top">
+
+<td valign="top" width="50%">
+
+<a href="https://steamcommunity.com/profiles/76561198318159908/" target="_blank">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198318159908&show_in_game_bg=true" alt="Steam Card" />
+</a>
 
 </td>
+
 </tr>
 </table>
 
