@@ -1,67 +1,125 @@
 ## Hi there 👋
+
 <a href="https://github.com/lvnl123" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/lvnl123" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@Violetxpter" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/weitaxinze" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
 
-  
-
-<br/>  
+<br/>
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Rapidfire
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <img align="left" alt="Coding" width="400" src="https://github.com/lvnl123/xuexi/blob/b247784c06c2829e22a8a0af58e79ebf8d678625/lv_0_20241014232539.gif">
+
 <img align="left" alt="Coding" width="400" src="https://github.com/lvnl123/xuexi/blob/19e49a7edffbee866939bd508b6a265890b20506/66fc6b91021d6563b0396fc15a65b0c6e78afe81.gif">
 
-</td></tr></table>  
+</td>
+</tr>
+</table>
 
-<br/>  
-
-
-##  I can do  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-</div>  
-
-<br/>  
+<br/>
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## I can do
 
-<img src="https://github-readme-stats-fxwi.vercel.app/api?username=lvnl123&show_icons=true&count_private=true&hide_border=true&show_icons=true&theme=radical&locale=cn" align="left" style="width: 100%" />
+<div align="center">
 
-</td><td valign="top" width="50%">
+<a href="https://www.python.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />
+</a>
+
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
+</a>
+
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+</a>
+
+<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver" height="50" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+</a>
+
+<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />
+</a>
+
+</div>
+
+<br/>
+
+
+## Github Stats
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats-fxwi.vercel.app/api?username=lvnl123&show_icons=true&count_private=true&hide_border=true&theme=radical&locale=cn" align="left" style="width: 100%" />
+
+</td>
+<td valign="top" width="50%">
 
 <img src="https://github-readme-stats-fxwi.vercel.app/api/top-langs/?username=lvnl123&hide_border=true&layout=compact&locale=cn" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td>
+</tr>
+</table>
 
-<br/>  
+<br/>
 
-## Listening Spotify 
-<br/>  
-<table><tr><td valign="top">
-  
+
+## My Contribution Village
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./maeul-in-the-sky-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./maeul-in-the-sky-light.svg">
+  <img alt="lvnl123's GitHub Contribution Village" src="./maeul-in-the-sky-dark.svg" width="100%">
+</picture>
+
+<br/>
+
+
+## Listening Spotify
+
+<br/>
+
+<table>
+<tr>
+<td valign="top">
+
 [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&theme=radical&unique=1&duration=1&album=1&username=off&footer=wave)](https://open.spotify.com/user/31vy7com76jj6cymtxpx2n5ogbi4)
-  
-</td><td valign="top">
 
-</td></tr></table>  
-<br/>  
+</td>
+<td valign="top">
+
+</td>
+</tr>
+</table>
+
+<br/>
