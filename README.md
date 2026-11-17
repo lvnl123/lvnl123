@@ -114,11 +114,7 @@
 
 <td valign="top" width="50%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" />
-  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&amp;theme=light&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" />
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="400" />
-</picture>
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31vy7com76jj6cymtxpx2n5ogbi4&theme=spotify&unique=1&duration=1&album=1&footer=wave)](https://open.spotify.com/user/31vy7com76jj6cymtxpx2n5ogbi4)
 
 </td>
 
